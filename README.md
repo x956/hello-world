@@ -1,3 +1,7 @@
 # hello-world
-Just Hello World!
-I am YangX I am studying GitHub! 
+# include<iostream>
+# using namespace std;
+int main()
+  {
+  cout<<"Hello World!";
+  }
